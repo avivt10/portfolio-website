@@ -64,10 +64,6 @@ export default function Home() {
   }
 
   return (
-    <>
-          <head>
-      <link rel="icon" href="/Images/myImage.png" />
-      </head>
     <div className="container">
       <ul className="nav-bar">
         <li className="nav-item">
@@ -356,6 +352,5 @@ export default function Home() {
         <p className="style-text-footer"> Aviv Turgeman || 054-7654-959 </p>
       </footer>
     </div>
- </>
   );
 }
