@@ -92,7 +92,7 @@ export default function Home() {
         <div className="home-inner-left">
           <h1 className="text-style-hello">Hello! </h1>
           <h1 className="text-style-display">I am Aviv Turgeman, </h1>
-          <h1 className="text-style-end">A Practical Software Engineer</h1>
+          <h1 className="text-style-end">A Practical Softwaaaaaaaaaaaaaaaare Engineer</h1>
         </div>
         <div className="home-inner-right">
           <Image
