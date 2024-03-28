@@ -65,6 +65,12 @@ export default function Home() {
 
   return (
     <div className="container">
+          <head>
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="/Images/myImage.png" />
+      </head>
       <ul className="nav-bar">
         <li className="nav-item">
           <a className="nav-link active nav-link-over" href="#home">
